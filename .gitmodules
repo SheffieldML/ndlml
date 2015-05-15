@@ -1,0 +1,3 @@
+[submodule "GPc"]
+	path = GPc
+	url = https://github.com/SheffieldML/GPc
